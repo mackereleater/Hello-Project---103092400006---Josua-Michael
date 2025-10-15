@@ -1,3 +1,4 @@
+// KOMEN INI DIBUAT UNTUK TUGAS WAWASAN GLOBAL TIK
 package main
 
 import (
@@ -586,3 +587,4 @@ func cetakBarang() {
 			barang[i].stok)
 	}
 }
+
